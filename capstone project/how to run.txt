@@ -1,0 +1,8 @@
+how to run:
+
+create a folder in vscode
+paste the code within file name: app.py, ..
+
+then go to terminal: type: streamlit run app.py 
+
+(website will be showcase)
