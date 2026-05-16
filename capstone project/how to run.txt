@@ -1,8 +1,9 @@
 how to run:
 
 create a folder in vscode
-paste the code within file name: app.py, ..
+create a folder name core: paste core code
+create a file name app.py >> paste the app.py's code
 
-then go to terminal: type: streamlit run app.py 
+then go to terminal of main folder: type: streamlit run app.py 
 
 (website will be showcase)
